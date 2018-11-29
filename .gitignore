@@ -1,0 +1,23 @@
+# Intellij
+*.iml
+*.ipr
+*.iws
+.idea
+*.eml
+.shelf
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+target/
+
+# Gradle & builds
+build
+target
+out
+.gradle
+classes
+.gradletasknamecache
+*.log
